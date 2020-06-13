@@ -37,7 +37,7 @@ File -> Import -> Maven -> Existing Maven project -> spring-boot-soap-webservice
  <img src="https://github.com/Sudarshan-Gowda/spring-boot-soap-webservices/blob/master/docs/Pic1.PNG"/>
 
 To see the complete project flow <br>
-<img src="https://github.com/Sudarshan-Gowda/spring-boot-simple-state-machine/blob/master/docs/soapUI-flow.gif"/>
+<img src="https://github.com/Sudarshan-Gowda/spring-boot-soap-webservices/blob/master/docs/soapUI-flow.gif"/>
 
 
 # Contributing
